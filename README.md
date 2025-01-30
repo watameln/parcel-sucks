@@ -1,5 +1,7 @@
 # parcel-sucks
 
+# https://parcelroblox.com
+
 bad whitelist.
 Their fault i can make this.
 
