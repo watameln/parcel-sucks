@@ -1,0 +1,2 @@
+# parcel-sucks
+bad whitelist
